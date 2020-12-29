@@ -1,14 +1,14 @@
 # english
 english words which are "rare"
 
-snag
-frankly
-tinkering
-a plethora
-throbby
-squabbling
-courveness
-contemplating
-tedious
-succinct
-contemplating
+snag <\br>
+frankly <\br>
+tinkering <\br>
+a plethora <\br>
+throbby <\br>
+squabbling <\br>
+courveness <\br>
+contemplating <\br>
+tedious <\br>
+succinct <\br>
+contemplating <\br>
